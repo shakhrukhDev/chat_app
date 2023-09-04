@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "157870319888",
+    "project_id": "telegram-clone-3ea08",
+    "storage_bucket": "telegram-clone-3ea08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157870319888:android:58fadc584c8fd4fea45d95",
+        "android_client_info": {
+          "package_name": "com.example.telegram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157870319888-uvvli87n6ap0i054j3678lco6ri2csph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS5oSMCc43Vnh6my3RolRGCGgy06FFnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157870319888-bb4r313b32oujm8nccekiqce3mip2ofh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157870319888-7t1gjnphfo5fj72221d65uv48ns0ind8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.telegramClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157870319888:android:3ee933612827ec79a45d95",
+        "android_client_info": {
+          "package_name": "com.example.telegramm_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157870319888-uvvli87n6ap0i054j3678lco6ri2csph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS5oSMCc43Vnh6my3RolRGCGgy06FFnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157870319888-bb4r313b32oujm8nccekiqce3mip2ofh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157870319888-7t1gjnphfo5fj72221d65uv48ns0ind8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.telegramClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
